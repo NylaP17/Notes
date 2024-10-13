@@ -40,3 +40,6 @@
    :butterfly:
 
    :turtle:
+
+   ## Link to Cli.md file
+   [CLI commands](docs/cli.md)
